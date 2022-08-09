@@ -22,7 +22,7 @@ links:
 subtitle: An R Package
 tags:
 - hugo-site
-title: Jellyfish
+title: UVR Stress on Jellyfish Plolyps
 ---
 
 ![Formspree Logo](formspree-logo.png)

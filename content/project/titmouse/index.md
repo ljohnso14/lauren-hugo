@@ -4,7 +4,7 @@ categories:
 - Theme Features
 - R
 - package
-date: "2021-07-01"
+date: "2018-07-01"
 draft: false
 excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
   integration. All you need to activate the form is a valid recipient email address
@@ -22,7 +22,7 @@ links:
 subtitle: An R Package
 tags:
 - hugo-site
-title: Jamaican Anole Communication
+title: Black-Crested Titmouse Behavioral Ecology
 ---
 
 ![Formspree Logo](formspree-logo.png)
