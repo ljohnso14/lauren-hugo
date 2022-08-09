@@ -22,7 +22,7 @@ links:
 subtitle: An R Package
 tags:
 - hugo-site
-title: Lizard
+title: Jellyfish
 ---
 
 ![Formspree Logo](formspree-logo.png)
