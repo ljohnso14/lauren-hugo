@@ -6,7 +6,7 @@ categories:
 - package
 date: "2019-12-01"
 draft: false
-excerpt: Here we examine whether Sea Lettuce-a bloom forming macroalgae-can be used as an indicator of eutrophication in natural environments. We also probe why it can be used. 
+excerpt: Can algae tell us what's going on in the water? 
 
 layout: single
 links:
@@ -21,7 +21,7 @@ links:
 subtitle: An R Package
 tags:
 - hugo-site
-title: Sea Lettuce as Environmental Indicator
+title: Sea Lettuce Indicates Eutrophication
 ---
 
 ![Formspree Logo](formspree-logo.png)
