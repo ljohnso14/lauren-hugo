@@ -2,7 +2,7 @@
 action_label: Learn more about me &rarr;
 action_link: /about
 action_type: text
-description: I am a scientist who gets to explore the world and study how it works. I am particularly interested in how animals interact with their environment. How they behave, evolve, and diversify into the many species we observe today. I have been fortunate to research with diverse collaborators at institutions across the US and around the globe. I am excited to share my research with you! Each species is a masterpiece, a creation assembled with extreme care and genius Edward O. Wilson
+description: I am a scientist who gets to explore the world and study how it works. I am particularly interested in how animals interact with their environment. How they behave, evolve, and diversify into the many species we observe today. I have been fortunate to research with diverse collaborators at institutions across the US and around the globe. I am excited to share my research with you!
 
 image_left: false
 images:
