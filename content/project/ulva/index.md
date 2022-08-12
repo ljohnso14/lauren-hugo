@@ -1,9 +1,7 @@
 ---
-author: Eric Anderson
+author: Lauren Johnson
 categories:
-- Theme Features
-- R
-- package
+
 date: "2019-12-01"
 draft: false
 excerpt: Can algae tell us what's going on in the water? 
