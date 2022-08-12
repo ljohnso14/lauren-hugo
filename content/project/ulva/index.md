@@ -6,9 +6,8 @@ categories:
 - package
 date: "2019-12-01"
 draft: false
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
+excerpt: Here we examine whether Sea Lettuce-a bloom forming macroalgae-can be used as an indicator of eutrophication in natural environments. We also probe why it can be used. 
+
 layout: single
 links:
 - icon: door-open
@@ -22,7 +21,7 @@ links:
 subtitle: An R Package
 tags:
 - hugo-site
-title: Ulva as Indicators of Eutrophication
+title: Sea Lettuce as Environmental Indicator
 ---
 
 ![Formspree Logo](formspree-logo.png)

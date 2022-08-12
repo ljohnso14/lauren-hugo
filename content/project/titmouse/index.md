@@ -1,14 +1,9 @@
 ---
-author: Eric Anderson
+author: Lauren Johnson    
 categories:
-- Theme Features
-- R
-- package
 date: "2018-07-01"
 draft: false
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
+excerpt: We explore several questions in the fascinating species. Do black-crested titmice communicate with their black crest? Why do young stay with their parents so long? Are these young actually related to their parents?
 layout: single
 links:
 - icon: door-open
@@ -22,7 +17,7 @@ links:
 subtitle: An R Package
 tags:
 - hugo-site
-title: Black-Crested Titmouse Behavioral Ecology
+title: Behaviroal Ecology of the Black-Crested Titmouse
 ---
 
 ![Formspree Logo](formspree-logo.png)

@@ -4,7 +4,7 @@ categories:
 - Theme Features
 - R
 - package
-date: "2019-07-01"
+date: "2010-07-01"
 draft: false
 excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
   integration. All you need to activate the form is a valid recipient email address

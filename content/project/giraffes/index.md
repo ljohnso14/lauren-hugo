@@ -4,7 +4,7 @@ categories:
 - Theme Features
 - R
 - package
-date: "2019-07-03"
+date: "2010-07-03"
 draft: false
 excerpt: Building this static site generator theme was the first time I used an Atomic
   (or Functional) CSS system like Tachyons. It’s a design system that provides very
