@@ -3,10 +3,12 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, I'm Lauren!
+  Hi there! I'm Lauren.
 ---
 
 <!-- this is a subheadline -->
+
+> *"Each species is a masterpiece, a creation assembled with extreme care and genius." -Edward O. Wilson*
 
 <i class = "fas fa-graduation-cap pr2"></i>Ph.D in Evolution, Ecology & Population Biology &#8729; Washington University in St. Louis &#8729; 2021-present
 
