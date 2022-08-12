@@ -7,6 +7,13 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
+
+  [[education.courses]]
+    course = "B.S"
+    Institution = "Trinity University"
+    year = 2021
+  
+
 I’m and ecologist and evolutionary biologist.
 
 I get to explore the world and study how it works.
