@@ -1,23 +1,28 @@
 ---
 author: Lauren Johnson
+type: talk
 cascade:
+  type: talk
   author: Lauren Johnson
   show_author_byline: true
   show_comments: false
   show_post_date: true
-  show_post_time: true
+  show_post_time: false
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent talks
     text_link_url: /publications/
 description: |
   This is a list of my publications with accompanying materials.
+
 layout: list
 show_author_byline: true
 show_button_links: true
 show_post_date: true
 show_post_thumbnail: true
-show_post_time: true
+show_post_time: false
+show_post_excerpt: false
+
 sidebar:
   author: Lauren Johnson
   description: "This is a list for your talks, workshops, or \nother events with a
@@ -27,6 +32,7 @@ sidebar:
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
   title: Talks that Last
+
 title: Publications
 ---
 
