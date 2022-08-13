@@ -4,7 +4,7 @@ cascade:
 description: |
   Ecologist and evolutionary biologist studying interactions between animals and their environment.
 show_header: true
-sidebar_left: true
+sidebar_left: false
 title: About Lauren
 ---
 

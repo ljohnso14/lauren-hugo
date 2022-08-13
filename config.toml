@@ -104,6 +104,7 @@ enableEmoji = true
   series = "series"
   tag = "tags"
 
+
 [menu]
   # Configure header
   [[menu.header]]
@@ -124,24 +125,23 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "Research Publications"
-    url = "/publication/"
+    url = "/publications/"
     weight = 4
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 5
   [[menu.header]]
     name = "A collection"
     title = "A collection"
     url = "/collection/"
-    weight = 6
+    weight = 5
   [[menu.header]]
     name = "Elements"
     title = "Element Page"
     url = "/elements/"
+    weight = 6
+  [[menu.header]]
+    name = "Pubs"
+    title = "publications I've written"
+    url = "/pubs/"
     weight = 7
-
   # Configure footer
   [[menu.footer]]
     name = "License"
