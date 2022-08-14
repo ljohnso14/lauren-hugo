@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Service
 description: |
    My research publications. 
 author: "Lauren Johnson"
