@@ -112,11 +112,11 @@ enableEmoji = true
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+  #[[menu.header]]
+    #name = "Blog"
+    #title = "Blog"
+    #url = "/blog/"
+    #weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
@@ -127,20 +127,20 @@ enableEmoji = true
     title = "Research Publications"
     url = "/publications/"
     weight = 4
+  #[[menu.header]]
+    #name = "A collection"
+    #title = "A collection"
+    #url = "/collection/"
+    #weight = 5
+  #[[menu.header]]
+    #name = "Elements"
+    #title = "Element Page"
+    #url = "/elements/"
+    #weight = 6
   [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
-  [[menu.header]]
-    name = "Pubs"
+    name = "Service"
     title = "publications I've written"
-    url = "/pubs/"
+    url = "/service/"
     weight = 7
   # Configure footer
   [[menu.footer]]
