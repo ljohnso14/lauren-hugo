@@ -17,7 +17,7 @@ links:
 subtitle: An R Package
 tags:
 - hugo-site
-title: Behaviroal Ecology of the Black-Crested Titmouse
+title: Behavioral Ecology of the Black-Crested Titmouse
 ---
 
 ![Formspree Logo](formspree-logo.png)
