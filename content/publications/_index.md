@@ -19,7 +19,7 @@ layout: list
 show_author_byline: true
 show_button_links: true
 show_post_date: true
-show_post_thumbnail: true
+show_post_thumbnail: false
 show_post_time: false
 show_post_excerpt: false
 

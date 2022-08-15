@@ -113,10 +113,10 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   #[[menu.header]]
-    #name = "Blog"
-    #title = "Blog"
-    #url = "/blog/"
-    #weight = 2
+   # name = "Blog"
+   # title = "Blog"
+   # url = "/blog/"
+   # weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
@@ -139,9 +139,14 @@ enableEmoji = true
     #weight = 6
   [[menu.header]]
     name = "Service"
-    title = "publications I've written"
+    title = "service and outreach"
     url = "/service/"
     weight = 7
+  [[menu.header]]
+    name = "Pubs"
+    title = "publications I've written"
+    url = "/pubs/"
+    wieght = 8
   # Configure footer
   [[menu.footer]]
     name = "License"
