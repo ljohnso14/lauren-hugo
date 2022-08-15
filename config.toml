@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Scientist, Learner, Creator"
   favicon = "/img/ljdark-favicon.ico"
   logo = "/img/LJ-logo-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["publications", "project", "service"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -49,7 +49,6 @@ enableEmoji = true
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
   theme = "grayscale"
-
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
   # the custom scss file must be in the assets/ folder
@@ -127,27 +126,17 @@ enableEmoji = true
     title = "Research Publications"
     url = "/publications/"
     weight = 4
-  #[[menu.header]]
-    #name = "A collection"
-    #title = "A collection"
-    #url = "/collection/"
-    #weight = 5
+  [[menu.header]]
+    name = "Service"
+    title = "A collection"
+    url = "/service/"
+    weight = 5
   #[[menu.header]]
     #name = "Elements"
     #title = "Element Page"
     #url = "/elements/"
     #weight = 6
-  [[menu.header]]
-    name = "Service"
-    title = "service and outreach"
-    url = "/service/"
-    weight = 7
-  [[menu.header]]
-    name = "Test"
-    title = "test"
-    url = "/test"
-    weight = 8
-  # Configure footer
+ # Configure footer
   [[menu.footer]]
     name = "License"
     title = "License"
