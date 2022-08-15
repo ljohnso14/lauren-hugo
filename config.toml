@@ -142,7 +142,11 @@ enableEmoji = true
     title = "service and outreach"
     url = "/service/"
     weight = 7
-
+  [[menu.header]]
+    name = "Test"
+    title = "test"
+    url = "/test"
+    weight = 8
   # Configure footer
   [[menu.footer]]
     name = "License"
