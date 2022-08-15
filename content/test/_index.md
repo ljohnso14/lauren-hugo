@@ -4,6 +4,7 @@ description: |
    My research publications. 
 author: "Lauren Johnson"
 show_post_thumbnail: false
+show_button_links: true
 thumbnail_left: false
 show_author_byline: true
 show_post_date: true
