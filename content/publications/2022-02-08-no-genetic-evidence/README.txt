@@ -1,0 +1,1 @@
+I have the pdf file in here to keep track of which pub goes with which folder, but the pdf HAS to be located in the static foler!!!! That is where the url link points to!!!
