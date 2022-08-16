@@ -13,7 +13,10 @@ subtitle: PHD STUDENT AT WASHINGTON UNIVERSITY IN ST. LOUIS
 text_align_left: true
 title: Lauren Johnson
 type: home
+
 ---
 
 ** index doesn't contain a body, just front matter above.
 See index.html in the layouts folder **
+
+

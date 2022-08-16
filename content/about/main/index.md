@@ -1,17 +1,20 @@
 ---
 ## Configure page content in wide column
-title: "Lately..." # leave blank to exclude
+title: "A little bit more about me..." # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # set to zero to exclude
 show_intro: true
-intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
-  
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+intro: | 
+  <i class = "fas fa-graduation-cap pr2"></i>Ph.D in Evolution, Ecology & Population Biology &#8729; Washington     University in St. Louis &#8729; 2021-present
+
+  <i class = "fas fa-graduation-cap pr2"></i>B.S. in Biology &#8729; Trinity University &#8729; 2021
+
+  <i class = "fas fa-graduation-cap pr2"></i>Semester in Environmental Science &#8729; Marine Biological Laboratory &#8729; 2019
+   
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-kiwi-bird"></i>  *"Each species is a masterpiece, a creation assembled with extreme care and genius." -Edward O. Wilson*
 ---
 
 ** index doesn't contain a body, just front matter above.

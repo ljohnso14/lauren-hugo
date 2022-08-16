@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Scientist, Learner, Creator"
   favicon = "/img/ljdark-favicon.ico"
   logo = "/img/LJ-logo-dark.png"
-  mainSections = ["publications", "project", "service"]
+  mainSections = ["publications", "project", "blog", "lately"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -140,11 +140,11 @@ enableEmoji = true
     #url = "/elements/"
     #weight = 6
  # Configure footer
- [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
+ #[[menu.footer]]
+    #name = "License"
+    #title = "License"
+    #url = "/license/"
+    #weight = 1
   #[[menu.footer]]
     #name = "Contact"
     #title = "Contact form"
