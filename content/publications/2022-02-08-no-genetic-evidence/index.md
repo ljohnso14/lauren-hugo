@@ -10,7 +10,7 @@ links:
   icon_pack: ai
   name: Publication
   url: https://doi.org/10.1676/20-00095
-- icon: file
+- icon: file-pdf
   icon_pack: fas
   name: PDF
   url: "vanderVelde2022_Article_NoGeneticEvidence.pdf"

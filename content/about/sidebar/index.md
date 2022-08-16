@@ -3,7 +3,6 @@
 author: "Lauren Johnson"
 role: |
   Ph.D. Student
-  
   WiSTEM Executive Board Member
   
   WiSTEM Community Engagement Chair
@@ -16,6 +15,7 @@ link_list:
   url: https://sites.wustl.edu/losos/
 - name: Women in STEM
   url: https://sites.wustl.edu/womeninstem/
+
 
 ---
 

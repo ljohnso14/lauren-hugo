@@ -10,7 +10,7 @@ links:
   icon_pack: ai
   name: Publication
   url: https://doi.org/10.1007/s00265-020-02925-x
-- icon: file
+- icon: file-pdf
   icon_pack: fas
   name: PDF
   url: "Borger2020_Article_TheInfluenceOfSocial-groupingO.pdf"
