@@ -60,12 +60,12 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner" #Commissioner
-  customheadingFontFamily = "Petrona" #EB Garamond
+  customtextFontFamily = "Atkinson Hyperlegible" #Commissioner
+  customheadingFontFamily = "Atkinson Hyperlegible" #EB Garamond
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
-  headingFontFamily = "sans-serif"
+  headingFontFamily = "sans-serif" #"sans-serif"
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
@@ -99,7 +99,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "LaurenJohnsonCV_2022-04-20.pdf"
+      url       = "LaurenJohnsonCV_2022-12-22.pdf"
 
 [taxonomies]
   category = "categories"
