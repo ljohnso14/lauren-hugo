@@ -17,7 +17,6 @@ links:
   
 subtitle: Behavioral Ecology & Sociobiology 
 tags:
-- hugo-site
 title: The influence of social-grouping on territorial defense behavior in the black-crested titmouse (Baeolophus atricristatus)
 ---
 

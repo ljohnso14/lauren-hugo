@@ -1,8 +1,8 @@
 ---
 title: Publications
-description: This page is home to my published research papers. 
+description: This page is home to my peer-reviewed published research papers. 
 author: "Lauren Johnson"
-show_post_thumbnail: false
+show_post_thumbnail: true
 show_button_links: true
 thumbnail_left: false
 show_author_byline: true
@@ -20,7 +20,7 @@ cascade:
   show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:
-    text_link_label: View recent events
+    text_link_label: View recent publications
     text_link_url: /publications/
     show_sidebar_adunit: false # show ad container
 ---

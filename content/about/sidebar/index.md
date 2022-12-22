@@ -6,12 +6,14 @@ role: |
 avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+link_list_label: # interests, bookmarks, elsewhere, etc.
 link_list:
-- name: Losos Lab
-  url: https://sites.wustl.edu/losos/
-- name: Women in STEM
-  url: https://sites.wustl.edu/womeninstem/
+#- name: Losos Lab
+#  url: https://sites.wustl.edu/losos/
+#- name: Women in STEM
+#  url: https://sites.wustl.edu/womeninstem/
+
+
 
 
 ---
